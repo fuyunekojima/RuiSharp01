@@ -1,0 +1,13 @@
+﻿# デフォルトの無視ファイル
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.RuiSharp01.iml
+/contentModel.xml
+# データソースのローカルストレージがファイルを無視しました
+/../../../../../../../../:\Users\yatah\RiderProjects\RuiSharp01\.idea\.idea.RuiSharp01\.idea/dataSources/
+/dataSources.local.xml
+# エディターベースの HTTP クライアントリクエスト
+/httpRequests/
